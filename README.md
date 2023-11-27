@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varaprasadreddy26
-- 👀 I’m interested in python ,AI&ML
+- 👀 I’m interested in python & AI ML
 - 🌱 I’m currently learning Python FastAPI web framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
